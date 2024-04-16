@@ -2,6 +2,8 @@
 
 This live streaming app is developed by PSDEV Team and utilizes the ZEGO CLOUD service for seamless live streaming functionality.
 
+[![Live View](https://img.shields.io/badge/Live%20View-Click%20Here-blue)](https://zego-cloud-live-streaming.vercel.app/)
+
 ## Features
 
 - Live streaming: Broadcast your content live to viewers around the world.
